@@ -1,1 +1,3 @@
-console.log('hello jan');
+const name ='jan';
+console.log(`hello ${name}`);
+
